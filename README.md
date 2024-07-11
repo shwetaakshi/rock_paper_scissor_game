@@ -1,7 +1,3 @@
-# Sure! Here’s a README for your "rock_paper_scissor_game" GitHub repository:
-
----
-
 # Rock Paper Scissor Game
 
 This repository contains a simple implementation of the classic Rock, Paper, Scissors game using Python. The game allows a player to choose between rock, paper, and scissors, while the computer randomly selects its choice. The winner is determined based on the standard rules of the game.
